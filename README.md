@@ -12,7 +12,7 @@ HI IM SANTA CLAWS
 
 hi im toby, im a cool skateboarder
 
-#directions
+# directions
 - git add .
 - git commit -m "message"
 - git push
