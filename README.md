@@ -9,4 +9,6 @@ Learn about the different components of insurance plans in a broken down fashion
 
 # Virtual Assistant 🚶‍♂️
 Meet Jake! Your virtual assistant. You can talk or message him. The assistant is virtual but the help is real.
-![image](https://github.com/vvyn/new-gen-planning/assets/62407356/61f13c31-9ca4-402f-bd51-e85807f45619)
+                                                             
+![avatar 1](https://github.com/vvyn/new-gen-planning/assets/62407356/653c0725-cd8f-48b0-a3fd-f524104694c3)
+
