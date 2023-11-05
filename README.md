@@ -16,8 +16,9 @@ Meet Jake! Your virtual assistant. You can talk or message him. The assistant is
 ![avatar 1](https://github.com/vvyn/new-gen-planning/assets/62407356/653c0725-cd8f-48b0-a3fd-f524104694c3)
 
 # Figma 🖌
-https://www.figma.com/proto/QYMJob25yPtAVviL5uFpYD/Untitled?type=design&node-id=8-21&t=NWnf6GJonPWMCP1q-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A21&mode=design
-https://www.figma.com/file/QYMJob25yPtAVviL5uFpYD/Untitled?type=design&node-id=0%3A1&mode=design&t=dcpUe5suvg0sjkbm-1
+- Prototype: https://www.figma.com/proto/QYMJob25yPtAVviL5uFpYD/Untitled?type=design&node-id=8-21&t=NWnf6GJonPWMCP1q-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A21&mode=design
+
+- Figma Files: https://www.figma.com/file/QYMJob25yPtAVviL5uFpYD/Untitled?type=design&node-id=0%3A1&mode=design&t=dcpUe5suvg0sjkbm-1
 
 # Devpost ✨
 https://devpost.com/software/fruity-roll-ups?ref_content=user-portfolio&ref_feature=in_progress
