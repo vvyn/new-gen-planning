@@ -1,5 +1,5 @@
 # New Gen Planning 🌱
-Because the newer generation has more opportunities to become their own boss and start up their own business, small businesses require "Small business Insurance" in order to let their work flourish. Insurance for small businesses helps keep entrepreneurs from worrying about the problems they'll have to overcome over the course of their start. Our website will better aid small business owners with a visually appealing and easy-to-read format that will be enticing to those needing insurance.
+The newer generation has more opportunities than ever before to become their own bosses and start up their own businesses. But, small businesses require small business insurance in order to let their work flourish. Insurance for small businesses help keep entrepreneurs from worrying about the problems they'll have to overcome from liability issues to worker's compensation. Our website aims to aid small business owners with a visually appealing, accessible, and easy-to-read format to entice young, fresh business owners in need of insurance.
 ![image](https://github.com/vvyn/new-gen-planning/assets/62407356/0ae0d1ef-6b76-40b6-b2f2-eea13adf569c)
 
 # Built With
